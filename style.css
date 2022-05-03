@@ -1,0 +1,17 @@
+h1 {
+    color: #ec4019;
+}
+
+li#recipe {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #c4c4a0;
+    border-radius: 28px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+img.showcase {
+    height: auto;
+    width: 400px;
+}
